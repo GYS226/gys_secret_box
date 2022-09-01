@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141659571383",
+    "project_id": "gys-secret-box",
+    "storage_bucket": "gys-secret-box.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141659571383:android:344a55c971eb9cfcd3b932",
+        "android_client_info": {
+          "package_name": "com.example.secret_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141659571383-qjva22v0spfljiqfeiocjrp2cmfbtpss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR9KR3Ij3hW-WOsve3IwfLYzT4Gg0a55E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141659571383-qjva22v0spfljiqfeiocjrp2cmfbtpss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
